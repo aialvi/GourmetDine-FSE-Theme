@@ -1,6 +1,31 @@
 {
   "version": 2,
   "settings": {
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
+          "slug": "system-fonts",
+          "name": "System Fonts"
+        },
+        {
+          "fontFamily": "Geneva, Tahoma, Verdana, sans-serif",
+          "slug": "geneva-verdana"
+        }
+      ],
+      "fontSizes": [
+        {
+          "slug": "small",
+          "size": "1rem",
+          "name": "Small"
+        },
+        {
+          "slug": "extra-large",
+          "size": "3rem",
+          "name": "Extra large"
+        }
+      ]
+    },
     "color": {
       "palette": [
         {
