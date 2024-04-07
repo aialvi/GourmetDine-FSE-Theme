@@ -149,13 +149,33 @@
   "templateParts": [
     {
       "name": "header",
-      "area": "header",
-      "title": "Header"
+      "title": "Header",
+      "area": "header"
+    },
+    {
+      "name": "narrow-header",
+      "title": "Narrow header",
+      "area": "header"
     },
     {
       "name": "footer",
-      "area": "footer",
-      "title": "Footer"
+      "title": "Footer",
+      "area": "footer"
+    },
+    {
+      "name": "narrow-footer",
+      "title": "Narrow footer",
+      "area": "footer"
+    },
+    {
+      "name": "sidebar",
+      "title": "Sidebar",
+      "area": "uncategorized"
+    },
+    {
+      "name": "post-navigation",
+      "title": "Post navigation",
+      "area": "uncategorized"
     }
   ]
 }
